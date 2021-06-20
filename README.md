@@ -1,0 +1,2 @@
+# Examining the Relations between Podcast Music and Content
+This is my coursework research on connection between podcast jingle musical features and podcast topics. Work is still in progress, but you are already welcome to roam the files, and I hope it will get prettier here soon
